@@ -1,5 +1,5 @@
 # Star-Traveler
-Micro:bit game in Micropython to navigate a generated 20x20 universe.
+Micro:bit V2 game in Micropython to navigate a generated 20x20 universe.
 
 * Tilting left/right/up/down guides the star flow.
 * Pressing A+B (or "shake") stops star flow - then tilting left/right/up/down guides the "ship" on the 5x5 screen.
@@ -9,4 +9,4 @@ Micro:bit game in Micropython to navigate a generated 20x20 universe.
 
 * StarTravel.py - main code
 * universe.py - helper module 
-* StarTravel.hex - micro:bit binary that can beloaded
+* StarTravel.hex - micro:bit binary that can be loaded to a micro:bit (V2 only)
